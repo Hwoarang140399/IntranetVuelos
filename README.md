@@ -1,6 +1,7 @@
 # intranet
 
-> An intranet for Travelmax
+> An important intranet
+- It isn't finished yet
 
 ## Build Setup
 
@@ -17,4 +18,4 @@ $ npm start
 
 # generate static project
 $ npm run generate
-```
+
