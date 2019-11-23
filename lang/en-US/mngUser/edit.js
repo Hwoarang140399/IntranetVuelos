@@ -1,0 +1,33 @@
+export default {
+    title: 'Edit User',
+    user:{
+        upload: 'Drop here or click to upload',
+        changePassword: 'Change Password',
+        fieldError: 'Please, complete this field',
+        checkField: 'Please, check the fields',
+        name: 'First Name',
+        lastName: 'Last Name',
+        email: 'Email',
+        username: 'Username',
+        country: 'Country',
+        gender: 'Gender',
+        company: 'Company',
+        jobTitle: 'Job Title',
+        capability: 'Capabilities',
+        admin: 'Administrator',
+        manager: 'Manager',
+        agent: 'Agent',
+        agentLevel: 'Agent Level',
+        submit: 'Submit',
+        preview: 'Image preview',
+        emailRequired: 'An email is required.',
+        validData1: 'This fields',
+        validData2: 'already exists.',
+        exitHome: 'Go home',
+        exitShow: 'Show all users',
+        exitKeep: 'Keep editing',
+        errorImage: 'Please, upload an image.',
+        errorFile: 'Oops...',
+        successEdit: 'The user was edited successfully.'
+    }
+}

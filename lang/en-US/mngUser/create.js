@@ -1,0 +1,22 @@
+export default {
+    title: 'Create a new user',
+    help: "Enter the new user's data.",
+    email: 'Email:',
+    emailPH: 'example@travelmax.com',
+    genderTitle: 'Gender:',
+    gender1: 'Male',
+    gender2: 'Female',
+    capability: 'Capability:',
+    capabilityPH: 'Define the capacity',
+    capability1: 'Agent',
+    capability2: 'Manager',
+    capability3: 'Admin',
+    accessAgent: 'Access:',
+    accessAgentPH: 'Define the access',
+    accessAgent1: 'Peru',
+    accessAgent2: 'Basic',
+    accessAgent3: 'OTA',
+    accessAgent4: 'Premium',
+    accessAgent5: 'Staff',
+    submit: 'Create user'
+}
