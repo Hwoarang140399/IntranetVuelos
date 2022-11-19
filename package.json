@@ -34,7 +34,7 @@
     "multer": "^1.4.2",
     "node-fetch": "^2.6.1",
     "nodemailer": "^6.3.0",
-    "nuxt": "^2.8.1",
+    "nuxt": "^2.15.8",
     "nuxt-buefy": "^0.3.12",
     "nuxt-i18n": "^5.12.7",
     "passport": "^0.4.0",
